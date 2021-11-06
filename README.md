@@ -5,7 +5,7 @@
 
 1) What is the background of your company? What do they do? Who are their competitors?
 
-    Response: 
+    Response: Shopify is a Canadian cloud-based multi-channel e-commerce company providing merchants with online services to start and manage their businesses as fast as one day. It allows sellers to create online store quickly and w/o code using its online store builder. It competes with other e-commerce companies such as BigCommerce or SquareSpace.
 
 2) How does this company use technology to their advantage? Why are they considered a FinTech company?
 
