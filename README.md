@@ -32,13 +32,13 @@
 
     Response:
     It is only the start and something BIG is in the making!
-    Shopify has been growing at a remarkable rate. This is a company that started in 2005 and is hostine more than 1 million business across the world. With increased ease and use of ecommerce the trend is bound to continue. The pandemic has been a blessing rather than curse for anything and eveything that was virtual; people in lockdown were shopping for all their needs and wishes online. Although this was fairly familiar with the younger generation - we have seen a marked change in adoption and comfort of ecommerce all across the population. Shopify makes its easier for any sized business to capture these markets for a profit by taking away the hurdles to worry and manage their online presence. As the popularity of cryptocurrency and alternative means of finance grows SHopify will be able to offer an even larger customer pool to its audience. 
     
-    "Shopify’s stock surged about 190% during 2020. During the same year, it also posted total revenue of $2.93 billion and a net income of $319 million. This was Shopify’s first year of profitability. However, Shopify’s success is not all attributed to the pandemic. It has been growing at a rapid rate for years. Since 2016, Shopify has grown revenue at an annual rate of about 70% per year. More recently, Shopify’s stock is up close to 40% so far in 2021"
+    Shopify has been growing at a remarkable rate. This is a company that started in 2005 and is hosting more than 1 million businesses across the world. With increased ease and use of ecommerce, this trend is bound to continue. The pandemic has been a blessing rather than curse for anything and eveything that was virtual; people in lockdown were shopping for all their needs and wishes online. Although pnline shopping was fairly familiar to the younger generation - we have seen a marked change in adoption and comfort of ecommerce all across the population. Shopify makes it easier for any business to marekt their products across the population and across borders, to capture these markets for a profit. It takes away the hurdles to worry and manage the technicalities of their online presence (such as product display and transaction process). In addition to increased ease and adoption of online shopping, the popularity of cryptocurrency and alternative means of finance will further fuel the advantages for businesses to go with  Shopify.
+    
+    As the Shopify becomes more attractive for businesses it is bound to attract funds and a further surge in its stock should be expected. Below is some text on Shopify's profitability during 2020.
+    
+    >Blockquote Shopify’s stock surged about 190% during 2020. During the same year, it also posted total revenue of $2.93 billion and a net income of $319 million. This was Shopify’s first year of profitability. However, Shopify’s success is not all attributed to the pandemic. It has been growing at a rapid rate for years. Since 2016, Shopify has grown revenue at an annual rate of about 70% per year. More recently, Shopify’s stock is up close to 40% so far in 2021
 
-Source: https://investmentu.com/shopify-stock-forecast/
-
-    - Increased customer pool and more tools/options to support businesses small and big
-    - Higher investments into Shopify as the stock value would increase overtime
+[Source] (https://investmentu.com/shopify-stock-forecast/)
 
 
